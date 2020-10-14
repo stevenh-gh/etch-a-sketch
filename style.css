@@ -10,7 +10,3 @@
     background-color: gray;
     border: 1px solid black;
 }
-
-.cell:hover {
-    background-color: rgb(98, 98, 98);
-}
