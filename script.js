@@ -14,5 +14,5 @@ let cells = document.querySelectorAll('.cell');
 cells.forEach(cell => {
     cell.addEventListener('mouseover', e => {
         e.target.style.cssText = 'background-color: rgb(98, 98, 98);'
-    })
-})
+    });
+});
